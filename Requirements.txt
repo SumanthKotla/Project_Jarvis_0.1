@@ -1,0 +1,9 @@
+livekit_agents
+livekit_plugins-openai
+livekit_plugins-google
+livekit_plugins-noise-cancellation
+mem0ai
+duckduckgo-search
+longchain_community
+requests
+python-dotenv
